@@ -7,7 +7,7 @@ class OnBoardingScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.amber,
-      decoration: BoxDecoration(),
+      decoration: const BoxDecoration(),
     );
   }
 }
